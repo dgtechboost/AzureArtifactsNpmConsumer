@@ -1,4 +1,4 @@
-#App Description
+# App Description
 
 This is an source code for an Angular app that is used in this article
 
