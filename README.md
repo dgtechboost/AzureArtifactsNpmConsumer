@@ -1,4 +1,12 @@
-# AzureArtifactsNpmConsumer
+#App Description
+
+This is an source code for an Angular app that is used in this article
+
+https://dgtechboost.com/2021/06/01/automate-publish-of-angular-library-as-npm-package-with-azure-devops/
+
+It is a basic generated app with minimal changes that are required to demonstrate how to consume, install, update the installed version of ng library in the format of the npm package.
+
+## AzureArtifactsNpmConsumer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
